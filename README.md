@@ -8,4 +8,4 @@
 
 </div>
 
-orgional video: https://youtu.be/2GfYIu5fMXY
+original video: https://youtu.be/2GfYIu5fMXY
