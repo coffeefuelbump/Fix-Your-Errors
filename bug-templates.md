@@ -165,25 +165,6 @@ Use this template when updating architecture docs after a bug fix:
 **Reference**: See [BUG_SOLUTIONS.md](../../BUG_SOLUTIONS.md) - "[Section Name]"
 ```
 
----
-
-## Code Review Checklist Template
-
-Use this checklist when reviewing code for bugs:
-
-- [ ] **Ref Verification**: All refs verified before use?
-- [ ] **Latest Collection Ref**: Using `latestCollectionRef.current` in `queueSave`?
-- [ ] **History Index**: Defaulting to latest version?
-- [ ] **Chat Images**: Reading from versions subcollection + cached `editChatMessages` instead of legacy `project.history`?
-- [ ] **Flush Operations**: Flushing immediately after bulk operations?
-- [ ] **State vs Refs**: Using refs for async, React state for UI?
-- [ ] **Dependency Arrays**: All dependencies included?
-- [ ] **Cleanup**: Resources cleaned up in useEffect?
-- [ ] **Error Handling**: Errors handled gracefully?
-- [ ] **Race Conditions**: Concurrent updates handled correctly?
-
----
-
 ## Bug Triage Template
 
 Use this template when triaging bugs:
