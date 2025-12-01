@@ -7,3 +7,5 @@
 [![YouTube Membership](https://img.shields.io/badge/YouTube-Become%20a%20Builder-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJFMlSxcvlZg5yZUYJT0Pug/join)
 
 </div>
+
+orgional video: https://youtu.be/2GfYIu5fMXY
