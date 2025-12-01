@@ -124,11 +124,3 @@ See [Studio Editor BUG_SOLUTIONS.md](./studio/BUG_SOLUTIONS.md) for Studio-speci
 4. **When reviewing code**: Check both this document and the relevant page-specific document
 
 ---
-
-## Related Documentation
-
-- **[Common Issues](./common-issues.md)** - Frequently encountered bugs and solutions
-- **[Debugging Guide](./debugging-guide.md)** - Step-by-step debugging process
-- **[Troubleshooting Checklist](./troubleshooting-checklist.md)** - Systematic debugging checklist
-- **[Bug Templates](./bug-templates.md)** - Templates for bug reports and audits
-- **[Architecture Documentation](../architecture/README.md)** - Architecture documentation
