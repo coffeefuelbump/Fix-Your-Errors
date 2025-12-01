@@ -197,11 +197,3 @@ Use this template when triaging bugs:
 
 ---
 
-## Related Documentation
-
-- **[Main BUG_SOLUTIONS.md](./BUG_SOLUTIONS.md)** - Overview and index
-- **[Studio Editor BUG_SOLUTIONS.md](./studio/BUG_SOLUTIONS.md)** - Studio Editor specific solutions
-- **[BUG_AUDIT_TEMPLATE.md](../audits/BUG_AUDIT_TEMPLATE.md)** - Systematic bug audit template
-- **[Common Issues](./common-issues.md)** - Frequently encountered bugs
-- **[Debugging Guide](./debugging-guide.md)** - Step-by-step debugging process
-
